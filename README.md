@@ -1,6 +1,6 @@
 # Q-A-Chatbot-using-OpenAI
 
-This project is a customizable Q&A chatbot built with Streamlit and LangChain, powered by OpenAI LLMs including gpt-4.1, o4-mini, and o3.
+This project is a customisable Q&A chatbot built with Streamlit and LangChain, powered by OpenAI LLMs including gpt-4.1, o4-mini, and o3.
 
 Features:
 	•	Supports multiple OpenAI models (gpt-4.1, o4-mini, o3)
